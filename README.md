@@ -26,4 +26,4 @@ Contains the slide decks from the course presentations, covering the original pa
 The final comprehensive report. This document follows the original paper's structure, with highlighted sections indicating my specific modifications, improvements, and the comparative analysis of the results.
 
 ## 🛠 Contribution
-This repository is updated as part of the academic requirements for the Metaheuristic Optimization course. Its primary goal is to provide a transparent and reproducible framework for researchers and students interested in SVM hyperparameter tuning and evolutionary algorithms. Any feedback or inquiries regarding the implementation are highly appreciated.
+This repository has been developed and maintained in fulfillment of the academic requirements for the Metaheuristic Optimization course. Its primary objective is to provide a transparent and reproducible framework for researchers and students interested in SVM hyperparameter tuning and evolutionary algorithms. Feedback and inquiries regarding the implementation are highly appreciated.
