@@ -7,23 +7,23 @@ The primary objective was to implement the research paper: "Evolving Support Vec
 ## 🏛 Repository Structure
 The project is organized into the following directories to facilitate easy review and reproducibility:
 
-**📂 Article**
+**📂 Article<br>**
 Contains the original reference paper used as the foundation for the implementation and classroom presentations.
 
-**📂 Datasets**
+**📂 Datasets<br>**
 Includes the medical datasets utilized for training and validating the classification models.
 
-**📂 Implementation_FOA_SVM**
+**📂 Implementation_FOA_SVM<br>**
 The initial implementation of the research paper, featuring the standard Fruit Fly Optimization (FOA) for SVM parameter tuning.
 
-**📂 Implementation_CSA_SVM**
+**📂 Implementation_CSA_SVM<br>**
 The enhanced version of the project. In this iteration, the local search phase of the FOA was replaced with the Clonal Selection Algorithm (CSA) to investigate its impact on model performance and optimization stability.
 
-**📂 Presentation**
+**📂 Presentation<br>**
 Contains the slide decks from the course presentations, covering the original paper’s methodology, the base implementation, and the subsequent enhancements and results.
 
-**📂 Report**
+**📂 Report<br>**
 The final comprehensive report. This document follows the original paper's structure, with highlighted sections indicating my specific modifications, improvements, and the comparative analysis of the results.
 
-## 🛠 Contribution<br>
+## 🛠 Contribution
 This repository is updated as part of the academic requirements for the Metaheuristic Optimization course. Its primary goal is to provide a transparent and reproducible framework for researchers and students interested in SVM hyperparameter tuning and evolutionary algorithms. Any feedback or inquiries regarding the implementation are highly appreciated.
