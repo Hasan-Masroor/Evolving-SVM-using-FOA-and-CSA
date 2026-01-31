@@ -2,7 +2,7 @@
 This repository contains the final project for the Metaheuristic Optimization course. The project involves the implementation of a specialized classification model and explores potential enhancements by modifying its core optimization mechanism.
 
 ## 📌 Project Overview
-The primary objective was to implement the research paper: "Evolving Support Vector Machines using Fruit Fly Optimization for Medical Data Classification ([ELSEVIER](https://www.sciencedirect.com/science/article/abs/pii/S0950705116000125))." The study focuses on optimizing two critical hyperparameters of the Support Vector Machine (SVM): $C$ and $\gamma$ (Gamma). To investigate performance improvements, the original model was modified by replacing the local search phase of the Fruit Fly Optimization Algorithm (FOA) with the Clonal Selection Algorithm (CSA), aiming for more robust convergence and higher classification accuracy.
+The primary objective was to implement the research paper: "Evolving Support Vector Machines using Fruit Fly Optimization for Medical Data Classification ([ELSEVIER](https://www.sciencedirect.com/science/article/abs/pii/S0950705116000125))." The study focuses on optimizing two critical hyperparameters of the Support Vector Machine (SVM): $C$ and $\gamma$. To investigate performance improvements, the original model was modified by replacing the local search phase of the Fruit Fly Optimization Algorithm (FOA) with the Clonal Selection Algorithm (CSA), aiming for more robust convergence and higher classification accuracy.
 
 ## 🏛 Repository Structure
 The project is organized into the following directories to facilitate easy review and reproducibility:
