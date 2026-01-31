@@ -1,29 +1,29 @@
 # Implementation and Enhancement of Evolving SVM using Fruit Fly Optimization and Clonal Selection Algorithm
 This repository contains the final project for the Metaheuristic Optimization course. The project involves the implementation of a specialized classification model and explores potential enhancements by modifying its core optimization mechanism.
 
-📌 Project Overview<br>
-The primary objective was to implement the research paper: "Evolving Support Vector Machines using Fruit Fly Optimization for Medical Data Classification. ([(ELSEVIER)](https://www.sciencedirect.com/science/article/abs/pii/S0950705116000125))" The study focuses on optimizing two critical hyperparameters of the Support Vector Machine (SVM): $C$ and $\gamma$ (Gamma). To investigate performance improvements, the original model was modified by replacing the local search phase of the Fruit Fly Optimization Algorithm (FOA) with the Clonal Selection Algorithm (CSA), aiming for more robust convergence and higher classification accuracy.
+**📌 Project Overview<br>**
+The primary objective was to implement the research paper: "Evolving Support Vector Machines using Fruit Fly Optimization for Medical Data Classification ([ELSEVIER](https://www.sciencedirect.com/science/article/abs/pii/S0950705116000125))." The study focuses on optimizing two critical hyperparameters of the Support Vector Machine (SVM): $C$ and $\gamma$ (Gamma). To investigate performance improvements, the original model was modified by replacing the local search phase of the Fruit Fly Optimization Algorithm (FOA) with the Clonal Selection Algorithm (CSA), aiming for more robust convergence and higher classification accuracy.
 
 ## 🏛 Repository Structure
 The project is organized into the following directories to facilitate easy review and reproducibility:
 
-📂 Article<br>
+## 📂 Article
 Contains the original reference paper used as the foundation for the implementation and classroom presentations.
 
-📂 Datasets<br>
+## 📂 Datasets<br>
 Includes the medical datasets utilized for training and validating the classification models.
 
-📂 Implementation_FOA_SVM<br>
+## 📂 Implementation_FOA_SVM<br>
 The initial implementation of the research paper, featuring the standard Fruit Fly Optimization (FOA) for SVM parameter tuning.
 
-📂 Implementation_CSA_SVM<br>
+## 📂 Implementation_CSA_SVM<br>
 The enhanced version of the project. In this iteration, the local search phase of the FOA was replaced with the Clonal Selection Algorithm (CSA) to investigate its impact on model performance and optimization stability.
 
-📂 Presentation<br>
+## 📂 Presentation<br>
 Contains the slide decks from the course presentations, covering the original paper’s methodology, the base implementation, and the subsequent enhancements and results.
 
-📂 Report<br>
+## 📂 Report<br>
 The final comprehensive report. This document follows the original paper's structure, with highlighted sections indicating my specific modifications, improvements, and the comparative analysis of the results.
 
-🛠 Contribution<br>
+## 🛠 Contribution<br>
 This repository is updated as part of the academic requirements for the Metaheuristic Optimization course. Its primary goal is to provide a transparent and reproducible framework for researchers and students interested in SVM hyperparameter tuning and evolutionary algorithms. Any feedback or inquiries regarding the implementation are highly appreciated.
