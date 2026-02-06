@@ -22,8 +22,5 @@ The enhanced version of the project. In this iteration, the local search phase o
 **📂 Presentation<br>**
 Contains the slide decks from the course presentations, covering the original paper’s methodology, the base implementation, and the subsequent enhancements and results.
 
-**📂 Report<br>**
-The final comprehensive report. This document follows the original paper's structure, with highlighted sections indicating my specific modifications, improvements, and the comparative analysis of the results.
-
 ## 🛠 Contribution
-This repository has been developed and maintained in fulfillment of the academic requirements for the Metaheuristic Optimization course. Its primary objective is to provide a transparent and reproducible framework for researchers and students interested in SVM hyperparameter tuning and evolutionary algorithms. Feedback and inquiries regarding the implementation are highly appreciated.
+This repository has been developed and maintained in fulfillment of the academic requirements for the Metaheuristic Optimization course. Its primary objective is to provide a transparent and reproducible framework for researchers and students interested in SVM hyperparameter tuning and evolutionary algorithms. Feedback and inquiries regarding the implementation are appreciated.
